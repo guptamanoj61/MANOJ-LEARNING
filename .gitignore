@@ -1,4 +1,4 @@
-# Local .terraform directories.
+# Local .terraform directories.::wq!:
 **/.terraform/*
 
 # .tfstate files
@@ -6,6 +6,7 @@
 *.tfstate.*
 *.terraform*
 *.terraform/*
+*/.terraform/*
 
 ## Crash log files
 crash.log
